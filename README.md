@@ -92,11 +92,6 @@ npm install
 npx playwright test
 ```
 
-## Executar um arquivo específico
-
-```bash
-npx playwright test tests/users
-```
 
 ---
 
@@ -112,14 +107,11 @@ Esse projeto foi desenvolvido com foco em:
 
 ---
 
-# Ajustes finais pendentes
+# Possíveis melhorias
 
-- Configuração de baseURL no Playwright
+- Criação de helpers 
 - Relatórios customizados
-
-# Objetivo futuro
-
-- Integração com CI
+- Integração CI
 
 ---
 
